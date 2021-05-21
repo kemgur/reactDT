@@ -1,0 +1,17 @@
+
+
+
+
+
+npx create-react-app reactproject
+npm install
+
+cd project
+npm start
+
+// DO THIS IS YOU ARE HAVING ERROR
+// 1. Delete “node_modules”
+// 2. Delete “package-lock.json”
+// 3. npm install react-scripts start
+// 4. npm install
+// 5. npm start : OPENS THE REACT PAGE
